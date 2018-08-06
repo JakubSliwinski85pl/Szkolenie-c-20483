@@ -1,1 +1,5 @@
 examcollection - strona z pytaniami egzaminacyjnym Microsoft
+
+
+**Visual Studio
+ctrl+K ctrl+u - komentowanie odkomentowanie
